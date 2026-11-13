@@ -1,38 +1,56 @@
+# Hi, I'm Afiz (AJ) Jiwa 👋
 
-# Hi, I'm Afiz 👋 (atoz-guy)
+### GRC | ServiceNow SecOps & IRM | Cybersecurity
 
-### 🛡️ Cybersecurity Student @ UCSD | 🛠️ 10+ Year Micro-Soldering Expert | 💻 Aspiring GRC/SOC & Infrastructure Analyst
+UCSD graduate working toward governance, risk and compliance, with a focus on ServiceNow GRC, SecOps and IRM.
 
-I am a Cybersecurity student at the **University of California, San Diego**. I bring over a decade of professional experience in advanced hardware diagnostics and micro-soldering to the digital security space. I specialize in the "Physical Layer" of IT—understanding systems from the silicon up.
+I came to security from the hardware side. I spent 10+ years doing micro-soldering and board-level repair, so I tend to look at systems from the bottom up. Now I put that same attention to detail into risk, controls and compliance: figuring out what matters, who owns it, and how to prove it's handled.
 
-Senior Micro-Soldering & Hardware Repair Specialist pivoting deeply into Enterprise Network Infrastructure and Security Operations. Currently advancing through hands-on defensive security engineering and building structured practical portfolios.
+I also run **ATOZ Cyber Labs**, where I do repair, youth robotics workshops, drone work and security tools. It's also my real-world test environment for GRC.
 
 ---
-## 🛠️ Technical Focus & Active Learning Track
-* **Defensive Operations (Current Focus):** Completing my Professional Certificate in Cybersecurity at **UCSD** extended studies and advancing through the **Practical SOC Analyst Associate (PSAA)** pipeline. Focusing heavily on traffic analysis, log correlation, and detection engineering.
-* **Core Infrastructure:** Hands-on administration of Windows Server, Active Directory environments, Group Policy deployment, and enterprise network design.
-* **Automation & Scripting:** Developing core competencies in Linux CLI navigation and Python automation (3-4 hours/week via Codecademy) to streamline security and IT support workflows.
----
-## 📜 Certifications & Milestones
-* ✅ **IBM QRadar SIEM Foundation** — Completed & Verified
-* 🎓 **UCSD Professional Certificate** — In Progress
-* 📜 **PSAA (Practical SOC Analyst Associate)** — In Progress
-* 📜 **LPIC-1 (Linux Professional Institute Certificate)** — Current Track
-* 📜 **PCEP (Certified Associate in Python Programming)** — Current Track
----
-## 🔬 Active Portfolio Repositories
-* 📁 **[Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio)** — Central hub for enterprise traffic triage, incident case studies, and network security labs.
-* 📁 **[Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab)** — Practical scripts, automation workflows, and core language practice.
-* 📁 **[TCM-Practical-Ethical-Hacking-Portfolio](https://github.com/atoz-guy/TCM-Practical-Ethical-Hacking-Portfolio)** — Staging area for future enterprise offensive testing, network exploration, and Active Directory assessments.
----
-## 🚀 The Game Plan
-1. **Master Defensive Monitoring:** Complete the PSAA milestone, focusing on alert structures and packet analysis.
-2. **Document the Labs:** Turn every complex technical hurdle, route failure, or traffic anomaly into a clear portfolio entry in my `Cybersecurity-Technical-Portfolio`.
-3. **Target Security Opportunities:** Bridge my extensive hardware engineering background with enterprise infrastructure security for internships and technical analyst roles.
----
-## 📬 Connect with Me
-* **Location:** San Diego, CA area
-* **Business:** CEO/CISO at atoz wireless
-* **Interests:** NHL, Drone Tech, Hardware Forensics, and Sustainability (ITAD methods).
 
-*"Securing the future by mastering the hardware of today."*
+## 🎯 What I'm focused on
+
+- **GRC:** NIST CSF, ISO 27001, SOC 2, risk registers, gap analysis, control mapping
+- **ServiceNow:** Risk and Compliance (IRM), Security Incident Response, Vulnerability Response
+- **Identity and cloud security:** Microsoft Entra, Purview, Azure
+- **Data:** cleaning and analyzing security data with SQL, pandas and Power BI. Security work is only as good as the data underneath it.
+
+---
+
+## 📜 Certifications
+
+| Area | Certifications |
+|---|---|
+| **ServiceNow** | CSA, CIS-RC, SecOps (CIS-DF, CIS-SIR, CIS-VR) |
+| **ISACA** | CRISC (exam passed), CISM and CISA next |
+| **Microsoft** | SC-100, SC-300, SC-401, AZ-104, PL-300 |
+| **CompTIA** | Security+, Linux+, SecAI+ |
+| **Other** | AWS SAA-C03, LPIC-1, Python PCEP / PCAP / PCPP1 |
+
+---
+
+## 📁 Featured work
+
+| Repo | What's in it |
+|---|---|
+| [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance) | My GRC focus, roadmap and how I approach risk |
+| [Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio) | SOC labs plus investigations tied back to NIST controls and risk scores |
+| [ServiceNow-](https://github.com/atoz-guy/ServiceNow-) | ServiceNow certs, notes and builds |
+| [Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab) | GRC audit logger with risk scoring, ticket logger |
+| [azure-labs](https://github.com/atoz-guy/azure-labs) | AZ-104 labs: RBAC, subscriptions, hub-and-spoke networking |
+| [Data_Analytics](https://github.com/atoz-guy/Data_Analytics) | SQL, Python and Power BI capstones |
+| [cyber-awareness-videos](https://github.com/atoz-guy/cyber-awareness-videos) | Short videos explaining threats in plain language |
+
+---
+
+## 🚀 What's next
+
+- CISM in December 2026
+- Hands-on ServiceNow builds in my PDI
+- NIST CSF gap analysis of my own business
+
+---
+
+📍 San Diego, CA
