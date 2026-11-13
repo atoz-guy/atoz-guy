@@ -40,7 +40,7 @@ I also run **ATOZ Cyber Labs**, where I do repair, youth robotics workshops, dro
 | [ServiceNow-](https://github.com/atoz-guy/ServiceNow-) | ServiceNow certs, notes and builds |
 | [Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab) | GRC audit logger with risk scoring, ticket logger |
 | [Data_Analytics](https://github.com/atoz-guy/Data_Analytics) | SQL, Python and Power BI capstones |
-| [cyber-awareness-videos](https://github.com/atoz-guy/cyber-awareness-videos) | Short videos explaining threats in plain language |
+| [Security-Awareness-Videos](https://github.com/atoz-guy/Security-Awareness-Videos) | Short videos explaining threats in plain language |
 
 ---
 
