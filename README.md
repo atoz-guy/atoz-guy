@@ -27,6 +27,7 @@ I also run **ATOZ Cyber Labs**, where I do repairs, host youth robotics workshop
 | **ISACA** | CRISC (exam passed), CISM and CISA next |
 | **Microsoft** | SC-100, SC-300, SC-401, AZ-104, PL-300 |
 | **CompTIA** | Security+, Linux+, SecAI+ |
+| **Google** | Cybersecurity, IT Support, IT Automation with Python, Data Analytics |
 | **Other** | AWS SAA-C03, LPIC-1, Python PCEP / PCAP / PCPP1 |
 
 ---
