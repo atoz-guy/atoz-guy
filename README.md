@@ -1,5 +1,5 @@
 
-# Hi, I'm Afiz 👋 (atoz0guy)
+# Hi, I'm Afiz 👋 (atoz-guy)
 
 ### 🛡️ Cybersecurity Student @ UCSD | 🛠️ 10+ Year Micro-Soldering Expert | 💻 Aspiring GRC/SOC & Infrastructure Analyst
 
