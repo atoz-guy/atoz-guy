@@ -1,6 +1,6 @@
 # Hi, I'm Afiz (AJ) Jiwa 👋
 
-### GRC | ServiceNow SecOps & IRM | Cybersecurity
+### GRC | ServiceNow SecOps & IRM | Cybersecurity 
 
 UCSD graduate working toward governance, risk and compliance, with a focus on ServiceNow GRC, SecOps and IRM.
 
