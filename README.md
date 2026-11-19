@@ -8,12 +8,12 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Linux+ | CompTIA | | [CompTIA/](CompTIA/) |
 | SecAI+ | CompTIA | | [CompTIA/](CompTIA/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
-| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage-Job-Simulations/](Forage-Job-Simulations/) |
+| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) |
 
 ## Layout
 - `CompTIA/`: CompTIA certifications
 - `ServiceNow/`: ServiceNow certifications
-- `Forage-Job-Simulations/`: Forage virtual job simulations
+- `Forage/`: Forage virtual job simulations
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
