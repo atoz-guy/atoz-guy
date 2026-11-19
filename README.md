@@ -38,7 +38,7 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 |---|---|
 | [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance) | My GRC focus, roadmap and how I approach risk |
 | [Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio) | SOC labs, GRC investigations, identity security, Azure and M365 labs, service desk cases |
-| [ServiceNow](https://github.com/atoz-guy/ServiceNow-) | ServiceNow certs, notes and builds |
+| [ServiceNow](https://github.com/atoz-guy/ServiceNow) | ServiceNow certs, notes and builds |
 | [Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab) | GRC audit logger with risk scoring, ticket logger |
 | [Data_Analytics](https://github.com/atoz-guy/Data_Analytics) | SQL, Python and Power BI capstones |
 | [Security-Awareness-Videos](https://github.com/atoz-guy/Security-Awareness-Videos) | Short videos explaining threats in plain language |
