@@ -1,6 +1,6 @@
 # Certifications
 
-Certificates and job simulations I've completed, grouped by issuer.
+Certificates and job simulations I've completed, grouped by issuer. 
 
 | Certification | Issuer | Date | Certificate |
 |---|---|---|---|
