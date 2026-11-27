@@ -41,9 +41,9 @@ Certificates and job simulations, grouped by issuer: [certifications/](certifica
 | [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance) | GRC hub: my GRC focus and roadmap, GRC investigations and policy-as-code labs, Excel GRC tools (CMMC, IAM scorecard), healthcare GRC |
 | [Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio) | Security hub: SOC labs, identity security, Azure and M365 labs, service desk cases, Python automation tools, roadmaps |
 | [ServiceNow](https://github.com/atoz-guy/ServiceNow) | ServiceNow certs, notes and builds |
-| [portswigger-labs](https://github.com/atoz-guy/portswigger-labs) | PortSwigger Web Security Academy lab write-ups |
-| [data-analytics-portfolio](https://github.com/atoz-guy/data-analytics-portfolio) | Data hub: SDI program and capstones, utility migration SQL labs, Google Data Analytics |
-| [social-media](https://github.com/atoz-guy/social-media) | Short security awareness videos explaining threats in plain language |
+| [Portswigger-Labs](https://github.com/atoz-guy/portswigger-labs) | PortSwigger Web Security Academy lab write-ups |
+| [Data-Analytics-Portfolio](https://github.com/atoz-guy/data-analytics-portfolio) | Data hub: SDI program and capstones, utility migration SQL labs, Google Data Analytics |
+| [Social-Media](https://github.com/atoz-guy/social-media) | Short security awareness videos explaining threats in plain language |
 
 ----
 
