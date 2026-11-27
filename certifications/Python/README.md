@@ -15,6 +15,7 @@
 * **Exam:** PCPP-32-101 | **Issued:** June 24, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/8767001a-0beb-4b34-965e-25f5561646de)
 * [Verify on OpenEDG](https://verify.openedg.org/?id=T7Cd.JXbg.CS4U)
+* [Download Official PDF](./pcpp1-certificate.pdf)
 
 ---
 
@@ -25,6 +26,7 @@
 * **Exam:** PCAP-31-03 | **Issued:** June 16, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/a0cfacb5-15d1-42fc-9a93-25a13e683a64)
 * [Verify on OpenEDG](https://verify.openedg.org/?id=ysBq.CeoJ.gdhj)
+* [Download Official PDF](./pcap-certificate.pdf)
 
 ---
 
@@ -35,3 +37,4 @@
 * **Exam:** PCEP-30-02 | **Issued:** June 2, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/2871bfa7-e76d-4f34-a54d-9495e6ec0e5d)
 * [Verify on OpenEDG](https://verify.openedg.org/?id=HZSb.MRm9.zhCr)
+* [Download Official PDF](./pcep-certificate.pdf)
