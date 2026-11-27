@@ -5,9 +5,9 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Certification | Issuer | Date | Certificate |
 |---|---|---|---|
 | Solutions Architect – Associate (SAA-C03) | AWS | June 30, 2026 | [AWS/](AWS/) |
-| Security+ | CompTIA | | [CompTIA/](CompTIA/) |
-| Linux+ | CompTIA | | [CompTIA/](CompTIA/) |
-| SecAI+ | CompTIA | | [CompTIA/](CompTIA/) |
+| Security+ (SY0-701) | CompTIA | May 30, 2026 | [CompTIA/](CompTIA/) |
+| Linux+ (XK0-006) | CompTIA | June 4, 2026 | [CompTIA/](CompTIA/) |
+| SecAI+ (CY0-001) | CompTIA | June 11, 2026 | [CompTIA/](CompTIA/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
