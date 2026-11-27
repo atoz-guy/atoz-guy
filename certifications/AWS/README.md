@@ -7,4 +7,5 @@
 * [Download Official PDF](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 
 
-![image](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
+<img width="600" height="600" alt="AWS" src="https://github.com/user-attachments/assets/e6b8d198-2251-41ed-9781-9f702f91afb5" />
+
