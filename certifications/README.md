@@ -8,7 +8,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Linux+ | CompTIA | | [CompTIA/](CompTIA/) |
 | SecAI+ | CompTIA | | [CompTIA/](CompTIA/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
-| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) |
+| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
 - `CompTIA/`: CompTIA certifications
