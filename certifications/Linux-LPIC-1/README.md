@@ -1,3 +1,3 @@
-# Linux Professional Institue LPIC_!
+# Linux Professional Institute LPIC-1
 
 Certificates go here.

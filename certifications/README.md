@@ -4,6 +4,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 
 | Certification | Issuer | Date | Certificate |
 |---|---|---|---|
+| Solutions Architect – Associate (SAA-C03) | AWS | June 30, 2026 | [AWS/](AWS/) |
 | Security+ | CompTIA | | [CompTIA/](CompTIA/) |
 | Linux+ | CompTIA | | [CompTIA/](CompTIA/) |
 | SecAI+ | CompTIA | | [CompTIA/](CompTIA/) |
@@ -11,9 +12,11 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
+- `AWS/`: Amazon Web Services certifications
 - `CompTIA/`: CompTIA certifications
 - `ServiceNow/`: ServiceNow certifications
 - `Forage/`: Forage virtual job simulations
+- `ISACA/`, `Linux-LPIC-1/`, `Microsoft/`, `Python/`: folders ready for upcoming certificates
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
