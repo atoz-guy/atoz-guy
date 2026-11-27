@@ -10,6 +10,9 @@ Certificates and job simulations I've completed, grouped by issuer.
 | SecAI+ (CY0-001) | CompTIA | June 11, 2026 | [CompTIA/](CompTIA/) |
 | LPIC-1 | Linux Professional Institute | June 26, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
 | Linux Essentials | Linux Professional Institute | June 13, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
+| PCPP1 (PCPP-32-101) | OpenEDG Python Institute | June 24, 2026 | [Python/](Python/) |
+| PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [Python/](Python/) |
+| PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
@@ -19,7 +22,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 - `ServiceNow/`: ServiceNow certifications
 - `Forage/`: Forage virtual job simulations
 - `Linux-LPIC-1/`: Linux Professional Institute certifications (LPIC-1, Linux Essentials)
-- `ISACA/`, `Microsoft/`, `Python/`: folders ready for upcoming certificates
+- `Python/`: OpenEDG Python Institute certifications (PCEP, PCAP, PCPP1)
+- `ISACA/`, `Microsoft/`: folders ready for upcoming certificates
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
