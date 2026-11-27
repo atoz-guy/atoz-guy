@@ -28,7 +28,7 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 | **Microsoft** | SC-100, SC-300, SC-401, AZ-104, PL-300 |
 | **CompTIA** | Security+, Linux+, SecAI+ |
 | **Google** | Cybersecurity, IT Support, IT Automation with Python, Data Analytics |
-| **Other** | AWS SAA-C03, LPIC-1, Python PCEP / PCAP / PCPP1 |
+| **Other** | AWS SAA-C03, LPIC-1, Linux Essentials, Python PCEP / PCAP / PCPP1 |
 
 Certificates and job simulations, grouped by issuer: [certifications/](certifications/)
 

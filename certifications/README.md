@@ -8,6 +8,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Security+ (SY0-701) | CompTIA | May 30, 2026 | [CompTIA/](CompTIA/) |
 | Linux+ (XK0-006) | CompTIA | June 4, 2026 | [CompTIA/](CompTIA/) |
 | SecAI+ (CY0-001) | CompTIA | June 11, 2026 | [CompTIA/](CompTIA/) |
+| LPIC-1 | Linux Professional Institute | June 26, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
+| Linux Essentials | Linux Professional Institute | June 13, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
@@ -16,7 +18,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 - `CompTIA/`: CompTIA certifications
 - `ServiceNow/`: ServiceNow certifications
 - `Forage/`: Forage virtual job simulations
-- `ISACA/`, `Linux-LPIC-1/`, `Microsoft/`, `Python/`: folders ready for upcoming certificates
+- `Linux-LPIC-1/`: Linux Professional Institute certifications (LPIC-1, Linux Essentials)
+- `ISACA/`, `Microsoft/`, `Python/`: folders ready for upcoming certificates
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
