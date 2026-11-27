@@ -13,7 +13,7 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 ## 🎯 What I'm focused on
 
 - **GRC:** NIST CSF, ISO 27001, SOC 2, risk registers, gap analysis, control mapping
-- **ServiceNow:** Risk and Compliance (IRM), Security Incident Response, Vulnerability Response
+- **ServiceNow:** Risk and Compliance (IRM), Security Incident Response, Vulnerability Response 
 - **Identity and cloud security:** Microsoft Entra, Purview, Azure
 - **Data:** cleaning and analyzing security data with SQL, pandas and Power BI. Security work is only as good as the data underneath it.
 
