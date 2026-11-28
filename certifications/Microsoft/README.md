@@ -6,6 +6,7 @@
 | [Identity and Access Administrator Associate](#identity-and-access-administrator-associate) | SC-300 | June 20, 2026 | June 20, 2027 | [Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/8edff3e9d9b7a36a) |
 | [Information Security Administrator Associate](#information-security-administrator-associate) | SC-401 | June 24, 2026 | June 24, 2027 | [Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/65834D9ABB93C2A?sharingId=333A4295D8E97B98) |
 | [Azure Administrator Associate](#azure-administrator-associate) | AZ-104 | June 27, 2026 | June 27, 2027 | [Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/d54f56cbfc916ce3) |
+| [Power BI Data Analyst Associate](#power-bi-data-analyst-associate) | PL-300 | October 16, 2026 | October 17, 2027 | [Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/c10302e5603f1c3c) |
 
 ---
 
@@ -50,3 +51,14 @@
 * **Credential ID:** D54F56CBFC916CE3 | **Certification number:** D8DG49-621879
 * [Verify on Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/d54f56cbfc916ce3)
 * [View Certificate](./az-104-certificate.png)
+
+---
+
+## Power BI Data Analyst Associate
+
+[<img width="200" alt="Microsoft Certified: Power BI Data Analyst Associate badge" src="pl-300-badge.svg" />](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/c10302e5603f1c3c)
+
+* **Exam:** PL-300 | **Earned:** October 16, 2026 | **Expires:** October 17, 2027
+* **Credential ID:** C10302E5603F1C3C | **Certification number:** 5S7A51-80B919
+* [Verify on Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/c10302e5603f1c3c)
+* [View Certificate](./pl-300-certificate.png)
