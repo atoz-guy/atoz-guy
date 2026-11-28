@@ -5,6 +5,7 @@
 | [Cybersecurity & IT Support (badge)](#cybersecurity--it-support) | San Diego Workforce Partnership, powered by Coursera | August 30, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA) |
 | [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
 | [Google Prompting Essentials](#google-prompting-essentials) | Google, via Coursera | January 20, 2026 | [Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2) |
+| [Google AI Essentials](#google-ai-essentials) | Google, via Coursera | January 19, 2026 | [Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93) |
 | [Google Cybersecurity](#google-cybersecurity) | Google, via Coursera | January 18, 2026 | [Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7) |
 
 ---
@@ -70,3 +71,14 @@ A professional certificate covering security frameworks, network security, Linux
 * [Verify Credential on Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2)
 
 A certificate of completion covering how to write effective prompts for generative AI tools.
+
+---
+
+## Google AI Essentials
+
+[<img width="200" alt="Google AI Essentials badge" src="google-ai-essentials-badge.png" />](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93)
+
+* **Issuer:** Google, via Coursera | **Issued:** January 19, 2026
+* [Verify Credential on Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93)
+
+A certificate of completion covering how to use generative AI tools at work productively and responsibly.

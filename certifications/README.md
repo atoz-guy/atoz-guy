@@ -16,6 +16,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
 | Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
 | Google Prompting Essentials | Google / Coursera | January 20, 2026 | [Coursera/](Coursera/) |
+| Google AI Essentials | Google / Coursera | January 19, 2026 | [Coursera/](Coursera/) |
 | Google Cybersecurity | Google / Coursera | January 18, 2026 | [Coursera/](Coursera/) |
 | Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Risk and Compliance (CIS-RC) | ServiceNow | June 25, 2026 | [ServiceNow/](ServiceNow/) |
