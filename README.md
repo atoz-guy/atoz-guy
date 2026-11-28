@@ -66,8 +66,7 @@ Projects, labs and write-ups that put these skills to use. [Featured work](#-fea
 
 ## 📫 Contact
 
-**Email:** [aj@atozcyberlabs.com](mailto:aj@atozcyberlabs.com)<br>
-**Website:** [atozcyberlabs.com](https://www.atozcyberlabs.com)<br>
+**Website:** [atozcyberlabs.com](https://www.atozcyberlabs.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** [aj@atozcyberlabs.com](mailto:aj@atozcyberlabs.com)<br>
 **Location:**<br>
 AtoZ CyberLabs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Repair · Protect · Learn · Explore*)<br>
 1640 Camino Del Rio N, Ste 127, San Diego, CA<br>
