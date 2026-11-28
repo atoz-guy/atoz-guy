@@ -4,6 +4,7 @@
 |---|---|---|---|---|
 | [Cybersecurity Architect Expert](#cybersecurity-architect-expert) | SC-100 | June 22, 2026 | June 22, 2027 | [Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/89443D1B7AB146BC?sharingId=333A4295D8E97B98) |
 | [Identity and Access Administrator Associate](#identity-and-access-administrator-associate) | SC-300 | June 20, 2026 | June 20, 2027 | [Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/8edff3e9d9b7a36a) |
+| [Information Security Administrator Associate](#information-security-administrator-associate) | SC-401 | June 24, 2026 | June 24, 2027 | [Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/65834D9ABB93C2A?sharingId=333A4295D8E97B98) |
 
 ---
 
@@ -26,3 +27,14 @@
 * **Credential ID:** 8EDFF3E9D9B7A36A | **Certification number:** 863485-36D06A
 * [Verify on Microsoft Learn](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/8edff3e9d9b7a36a)
 * [View Certificate](./sc-300-certificate.png)
+
+---
+
+## Information Security Administrator Associate
+
+[<img width="200" alt="Microsoft Certified: Information Security Administrator Associate badge" src="sc-401-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/65834D9ABB93C2A?sharingId=333A4295D8E97B98)
+
+* **Exam:** SC-401 | **Earned:** June 24, 2026 | **Expires:** June 24, 2027
+* **Credential ID:** 65834D9ABB93C2A | **Certification number:** 11L3F4-631358
+* [Verify on Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/65834D9ABB93C2A?sharingId=333A4295D8E97B98)
+* [View Certificate](./sc-401-certificate.png)
