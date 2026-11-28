@@ -4,6 +4,7 @@
 |---|---|---|---|
 | [Cybersecurity & IT Support (badge)](#cybersecurity--it-support) | San Diego Workforce Partnership, powered by Coursera | August 30, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA) |
 | [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
+| [Google Prompting Essentials](#google-prompting-essentials) | Google, via Coursera | January 20, 2026 | [Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2) |
 | [Google Cybersecurity](#google-cybersecurity) | Google, via Coursera | January 18, 2026 | [Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7) |
 
 ---
@@ -58,3 +59,14 @@ A professional certificate covering Python, Git and IT automation.
 * [Verify Credential on Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7)
 
 A professional certificate covering security frameworks, network security, Linux, SQL, threat detection and incident response, and Python for security tasks.
+
+---
+
+## Google Prompting Essentials
+
+[<img width="200" alt="Google Prompting Essentials badge" src="google-prompting-essentials-badge.png" />](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2)
+
+* **Issuer:** Google, via Coursera | **Issued:** January 20, 2026
+* [Verify Credential on Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2)
+
+A certificate of completion covering how to write effective prompts for generative AI tools.
