@@ -28,7 +28,7 @@ A professional certificate covering security frameworks, network security, Linux
 ## Cybersecurity & IT Support
 
 Afiz Jiwa<br>
-[<img width="200" alt="Cybersecurity & IT Support badge" src="cybersecurity-it-support-badge-clean.png" />](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA)
+[<img width="200" alt="Cybersecurity & IT Support badge" src="cybersecurity-it-support-badge.png" />](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA)
 
 * **Issuer:** San Diego Workforce Partnership / Coursera | **Issued:** August 30, 2026
 * [Verify Badge on Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA)
