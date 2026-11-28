@@ -41,8 +41,7 @@ A cybersecurity pathway with optional IT support training. It covers 14 courses:
 [<img width="200" alt="Google IT Automation with Python badge" src="it-automation-python-badge.png" />](https://www.coursera.org/account/accomplishments/specialization/L3BFS9RMMVSA)
 
 * **Issuer:** Google, via Coursera | **Completed:** April 10, 2026
-* [Verify Certificate on Coursera](https://www.coursera.org/account/accomplishments/specialization/L3BFS9RMMVSA)
-* [Verify on Coursera (certificate code L3BFS9RMMVSA)](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA)
+* [Verify Certificate on Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA)
 * [Download Official PDF](./it-automation-python-certificate.pdf)
 
 A professional certificate covering Python, Git and IT automation.
