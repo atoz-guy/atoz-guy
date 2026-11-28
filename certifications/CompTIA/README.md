@@ -6,7 +6,7 @@
 | [Linux+](#comptia-linux-xk0-006) | XK0-006 | June 4, 2026 | June 4, 2029 |
 | [SecAI+](#comptia-secai-cy0-001) | CY0-001 | June 11, 2026 | June 11, 2029 |
 
-All three can also be verified at [verify.CompTIA.org](http://verify.CompTIA.org) using the code on each certificate.
+All three can also be verified at [verify.CompTIA.org](http://verify.CompTIA.org) using the code on each certificate. 
 
 ---
 
