@@ -13,6 +13,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 | PCPP1 (PCPP-32-101) | OpenEDG Python Institute | June 24, 2026 | [Python/](Python/) |
 | PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [Python/](Python/) |
 | PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
+| Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
+| Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
 | Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
@@ -23,6 +25,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 - `Forage/`: Forage virtual job simulations
 - `Linux-LPIC-1/`: Linux Professional Institute certifications (LPIC-1, Linux Essentials)
 - `Python/`: OpenEDG Python Institute certifications (PCEP, PCAP, PCPP1)
+- `Coursera/`: Coursera certificates and badges (Google, San Diego Workforce Partnership)
 - `ISACA/`, `Microsoft/`: folders ready for upcoming certificates
 
 ## Adding a certificate
