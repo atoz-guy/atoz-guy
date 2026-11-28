@@ -29,17 +29,17 @@ I also run **AtoZ CyberLabs** (*Repair · Protect · Learn · Explore*), where I
 | **Google** | Cybersecurity, IT Support, IT Automation with Python, AI Professional, Data Analytics (in progress) |
 | **Other** | AWS SAA-C03, LPIC-1, Linux Essentials, Python PCEP / PCAP / PCPP1 |
 
-**Certifications**<br>
-Certificates grouped by issuer: [certifications/](certifications/)
+**[Certifications](certifications/)**<br>
+Certificates grouped by issuer.
 
-**Professional Affiliations**<br>
-ISACA member; CRISC examination passed (certification pending). CISM and CISA next. [professional-affiliations/](professional-affiliations/)
+**[Professional Affiliations](professional-affiliations/)**<br>
+ISACA member; CRISC examination passed (certification pending). CISM and CISA next.
 
-**Training & Job Simulations**<br>
-Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte, plus short courses. [training/](training/)
+**[Training & Job Simulations](training/)**<br>
+Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte, plus short courses.
 
-**Featured Work**<br>
-Projects, labs and write-ups that put these skills to use. [Featured work](#-featured-work)
+**[Featured Work](#-featured-work)**<br>
+Projects, labs and write-ups that put these skills to use.
 
 ---
 
