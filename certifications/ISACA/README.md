@@ -1,16 +1,30 @@
-# ISACA
+# ISACA Credentials
 
-| Credential | Status | Date | Certificate |
+| Credential | Status | Date | Evidence |
 |---|---|---|---|
-| [CRISC – Certified in Risk and Information Systems Control](#crisc--certified-in-risk-and-information-systems-control) | Exam passed | November 1, 2026 | [PDF](./crisc-exam-passer-certificate.pdf) |
+| [Certified in Risk and Information Systems Control (CRISC)](#certified-in-risk-and-information-systems-control-crisc) | Examination passed | November 1, 2026 | [ISACA Certificate (PDF)](./crisc-exam-passer-certificate.pdf) |
 
 ---
 
-## CRISC – Certified in Risk and Information Systems Control
+## Certified in Risk and Information Systems Control (CRISC)
 
-* **Status:** Exam passed | **Date:** November 1, 2026
-* [View Certificate (PDF)](./crisc-exam-passer-certificate.pdf): ISACA Certificate of Participation, "CRISC Exam Passer" (up to 8 CPE hours)
+* **Issuing body:** ISACA
+* **Status:** Examination passed. Certification pending verification of professional experience.
+* **Date:** November 1, 2026
+* **Evidence:** [ISACA Certificate of Participation, "CRISC Exam Passer" (PDF)](./crisc-exam-passer-certificate.pdf), eligible for up to 8 CPE hours
 
-Passing the exam is the first step toward CRISC. Full certification follows once ISACA approves the application, which includes verified work experience.
+**About the credential**
 
-**Next:** CISM and CISA.
+CRISC validates expertise in identifying and managing enterprise IT risk and in designing, implementing and monitoring information systems controls. The examination covers four domains:
+
+1. Governance
+2. IT Risk Assessment
+3. Risk Response and Reporting
+4. Information Technology and Security
+
+---
+
+## Planned
+
+* Certified Information Security Manager (CISM)
+* Certified Information Systems Auditor (CISA)
