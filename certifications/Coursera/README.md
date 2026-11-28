@@ -3,7 +3,7 @@
 | Certificate | Issuer | Issued | Verify |
 |---|---|---|---|
 | [Cybersecurity & IT Support (badge)](#cybersecurity--it-support) | San Diego Workforce Partnership, powered by Coursera | August 30, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA) |
-| [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/L3BFS9RMMVSA) |
+| [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
 
 ---
 
@@ -38,9 +38,10 @@ A cybersecurity pathway with optional IT support training. It covers 14 courses:
 
 ## Google IT Automation with Python
 
-[<img width="200" alt="Google IT Automation with Python badge" src="it-automation-python-badge.png" />](https://www.coursera.org/account/accomplishments/specialization/L3BFS9RMMVSA)
+[<img width="200" alt="Google IT Automation with Python badge" src="it-automation-python-badge.png" />](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22)
 
 * **Issuer:** Google, via Coursera | **Completed:** April 10, 2026
+* [Verify Credential on Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22)
 * [Verify Certificate on Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA)
 * [Download Official PDF](./it-automation-python-certificate.pdf)
 
