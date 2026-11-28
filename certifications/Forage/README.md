@@ -84,6 +84,7 @@ As an analyst on Mastercard's Security Awareness Team in the simulation, I:
 
 * **Platform:** Forage | **Completed:** March 26, 2026
 * [View Certificate (PDF)](./forage-deloitte-cyber-certificate.pdf)
+* [About this simulation](https://www.theforage.com/deloitte-au/cyber-c1e3)
 
 **What I did**
 
