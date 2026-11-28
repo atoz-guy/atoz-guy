@@ -1,6 +1,6 @@
 # Certifications
 
-Certificates and job simulations I've completed, grouped by issuer. 
+Certifications I've earned, grouped by issuer. See also [Professional Affiliations](../professional-affiliations/) and [Training & Job Simulations](../training/).
 
 | Certification | Issuer | Date | Certificate | Details |
 |---|---|---|---|---|
@@ -14,11 +14,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 | PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [PDF](Python/pcap-certificate.pdf) | [Python/](Python/) |
 | PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [PDF](Python/pcep-certificate.pdf) | [Python/](Python/) |
 | Google Cybersecurity | Google / Coursera | January 18, 2026 | [PDF](Coursera/google-cybersecurity-certificate.pdf) | [Coursera/](Coursera/) |
-| Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | Badge only | [Coursera/](Coursera/) |
 | Google IT Automation with Python | Google / Coursera | April 10, 2026 | [PDF](Coursera/it-automation-python-certificate.pdf) | [Coursera/](Coursera/) |
 | Google AI Professional Certificate | Google / Coursera | March 6, 2026 | [PDF](Coursera/google-ai-professional-certificate.pdf) | [Coursera/](Coursera/) |
-| Google Prompting Essentials | Google / Coursera | January 20, 2026 | [PDF](Coursera/google-prompting-essentials-certificate.pdf) | [Coursera/](Coursera/) |
-| Google AI Essentials | Google / Coursera | January 19, 2026 | [PDF](Coursera/google-ai-essentials-certificate.pdf) | [Coursera/](Coursera/) |
 | Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Risk and Compliance (CIS-RC) | ServiceNow | June 25, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
@@ -29,23 +26,15 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Information Security Administrator Associate (SC-401) | Microsoft | June 24, 2026 | [Image](Microsoft/sc-401-certificate.png) | [Microsoft/](Microsoft/) |
 | Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Image](Microsoft/az-104-certificate.png) | [Microsoft/](Microsoft/) |
 | Power BI Data Analyst Associate (PL-300) | Microsoft | October 16, 2026 | [Image](Microsoft/pl-300-certificate.png) | [Microsoft/](Microsoft/) |
-| CRISC (exam passed) | ISACA | November 1, 2026 | [PDF](ISACA/crisc-exam-passer-certificate.pdf) | [ISACA/](ISACA/) |
-| ISACA Membership | ISACA | October 14, 2026 | [PDF](ISACA/isaca-membership-certificate.pdf) | [ISACA/](ISACA/) |
-| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 20, 2026 | [PDF](Forage/forage-jj-robotics-controls-certificate.pdf) | [Forage/](Forage/) |
-| Partnering with AI in the Workplace Job Simulation (Datacom) | Forage | April 14, 2026 | [PDF](Forage/forage-datacom-ai-workplace-certificate.pdf) | [Forage/](Forage/) |
-| Cybersecurity Job Simulation (Mastercard) | Forage | March 27, 2026 | [PDF](Forage/forage-mastercard-cybersecurity-certificate.pdf) | [Forage/](Forage/) |
-| Cyber Job Simulation (Deloitte Australia) | Forage | March 26, 2026 | [PDF](Forage/forage-deloitte-cyber-certificate.pdf) | [Forage/](Forage/) |
 
 ## Layout
 - `AWS/`: Amazon Web Services certifications
 - `CompTIA/`: CompTIA certifications
 - `ServiceNow/`: ServiceNow certifications
-- `Forage/`: Forage virtual job simulations
 - `Linux-LPIC-1/`: Linux Professional Institute certifications (LPIC-1, Linux Essentials)
 - `Python/`: OpenEDG Python Institute certifications (PCEP, PCAP, PCPP1)
-- `Coursera/`: Coursera certificates and badges (Google, San Diego Workforce Partnership)
+- `Coursera/`: Google professional certificates (Cybersecurity, IT Automation with Python, AI Professional)
 - `Microsoft/`: Microsoft certifications
-- `ISACA/`: ISACA (member; CRISC exam passed; CISM and CISA next)
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).

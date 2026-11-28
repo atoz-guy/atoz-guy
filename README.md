@@ -24,13 +24,16 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 | Area | Certifications |
 |---|---|
 | **ServiceNow** | CSA, CIS-RC, SecOps (CIS-DF, CIS-SIR, CIS-VR) |
-| **ISACA** | CRISC (exam passed), CISM and CISA next |
 | **Microsoft** | SC-100, SC-300, SC-401, AZ-104, PL-300 |
 | **CompTIA** | Security+, Linux+, SecAI+ |
 | **Google** | Cybersecurity, IT Support, IT Automation with Python, AI Professional, Data Analytics |
 | **Other** | AWS SAA-C03, LPIC-1, Linux Essentials, Python PCEP / PCAP / PCPP1 |
 
-Certificates and job simulations, grouped by issuer: [certifications/](certifications/)
+Certificates grouped by issuer: [certifications/](certifications/)
+
+**Professional affiliations:** ISACA member; CRISC examination passed (certification pending). CISM and CISA next. [professional-affiliations/](professional-affiliations/)
+
+**Training & job simulations:** Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte, plus short courses. [training/](training/)
 
 ---
 
