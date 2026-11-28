@@ -2,12 +2,12 @@
 
 | Certificate | Issuer | Issued | Verify |
 |---|---|---|---|
-| [Google Cybersecurity](#google-cybersecurity) | Google, via Coursera | January 18, 2026 | [Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7) |
+| [Google Cybersecurity](#google-cybersecurity) | Google, via Coursera | January 18, 2026 | [Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7) · [Coursera](https://coursera.org/verify/professional-cert/W2FUS873ORJU) |
 | [Cybersecurity & IT Support (badge)](#cybersecurity--it-support) | San Diego Workforce Partnership, powered by Coursera | August 30, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA) |
 | [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
-| [Google AI Professional Certificate](#google-ai-professional-certificate) | Google, via Coursera | March 6, 2026 | [Credly](https://www.credly.com/badges/bd99e866-3f98-4af7-8797-e9a54a4c7cd5) |
-| [Google Prompting Essentials](#google-prompting-essentials) | Google, via Coursera | January 20, 2026 | [Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2) |
-| [Google AI Essentials](#google-ai-essentials) | Google, via Coursera | January 19, 2026 | [Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93) |
+| [Google AI Professional Certificate](#google-ai-professional-certificate) | Google, via Coursera | March 6, 2026 | [Credly](https://www.credly.com/badges/bd99e866-3f98-4af7-8797-e9a54a4c7cd5) · [Coursera](https://coursera.org/verify/professional-cert/TW45TE367GVZ) |
+| [Google Prompting Essentials](#google-prompting-essentials) | Google, via Coursera | January 20, 2026 | [Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2) · [Coursera](https://coursera.org/verify/specialization/NDA10T2SQ3OT) |
+| [Google AI Essentials](#google-ai-essentials) | Google, via Coursera | January 19, 2026 | [Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93) · [Coursera](https://coursera.org/verify/specialization/FOMMJ0O4YOVP) |
 
 ---
 
@@ -17,6 +17,8 @@
 
 * **Issuer:** Google, via Coursera | **Issued:** January 18, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7)
+* [Verify Certificate on Coursera](https://coursera.org/verify/professional-cert/W2FUS873ORJU)
+* [Download Official PDF](./google-cybersecurity-certificate.pdf)
 
 A professional certificate covering security frameworks, network security, Linux, SQL, threat detection and incident response, and Python for security tasks.
 
@@ -70,6 +72,8 @@ A professional certificate covering Python, Git and IT automation.
 
 * **Issuer:** Google, via Coursera | **Issued:** March 6, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/bd99e866-3f98-4af7-8797-e9a54a4c7cd5)
+* [Verify Certificate on Coursera](https://coursera.org/verify/professional-cert/TW45TE367GVZ)
+* [Download Official PDF](./google-ai-professional-certificate.pdf)
 
 An eight-course professional certificate on applying AI to brainstorming, research, communication, content creation, data analysis and vibe coding, with a portfolio of AI work.
 
@@ -81,6 +85,8 @@ An eight-course professional certificate on applying AI to brainstorming, resear
 
 * **Issuer:** Google, via Coursera | **Issued:** January 20, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2)
+* [Verify Certificate on Coursera](https://coursera.org/verify/specialization/NDA10T2SQ3OT)
+* [Download Official PDF](./google-prompting-essentials-certificate.pdf)
 
 A certificate of completion covering how to write effective prompts for generative AI tools.
 
@@ -92,5 +98,7 @@ A certificate of completion covering how to write effective prompts for generati
 
 * **Issuer:** Google, via Coursera | **Issued:** January 19, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93)
+* [Verify Certificate on Coursera](https://coursera.org/verify/specialization/FOMMJ0O4YOVP)
+* [Download Official PDF](./google-ai-essentials-certificate.pdf)
 
 A certificate of completion covering how to use generative AI tools at work productively and responsibly.
