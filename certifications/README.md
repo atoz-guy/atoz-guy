@@ -15,6 +15,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
 | Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
 | Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
+| Google AI Professional Certificate | Google / Coursera | March 6, 2026 | [Coursera/](Coursera/) |
 | Google Prompting Essentials | Google / Coursera | January 20, 2026 | [Coursera/](Coursera/) |
 | Google AI Essentials | Google / Coursera | January 19, 2026 | [Coursera/](Coursera/) |
 | Google Cybersecurity | Google / Coursera | January 18, 2026 | [Coursera/](Coursera/) |
