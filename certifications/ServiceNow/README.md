@@ -18,5 +18,7 @@
 
 ## Certified Implementation Specialist – Data Foundations (CIS-DF)
 
+[<img width="200" alt="ServiceNow CIS-DF badge" src="cis-df-badge.png" />](https://www.credly.com/badges/b4818061-9dbb-494d-acba-327192b9a4b8)
+
 * **Focus:** CMDB and CSDM | **Issued:** October 17, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/b4818061-9dbb-494d-acba-327192b9a4b8)
