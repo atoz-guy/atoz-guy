@@ -10,6 +10,7 @@
 
 ## PCPP1 – Certified Professional Python Programmer Level 1
 
+Afiz Jiwa<br>
 [<img width="200" alt="PCPP1 badge" src="pcpp1-badge.png" />](https://www.credly.com/badges/8767001a-0beb-4b34-965e-25f5561646de)
 
 * **Exam:** PCPP-32-101 | **Issued:** June 24, 2026
@@ -21,6 +22,7 @@
 
 ## PCAP – Certified Associate Python Programmer
 
+Afiz Jiwa<br>
 [<img width="200" alt="PCAP badge" src="pcap-badge.png" />](https://www.credly.com/badges/a0cfacb5-15d1-42fc-9a93-25a13e683a64)
 
 * **Exam:** PCAP-31-03 | **Issued:** June 16, 2026
@@ -32,6 +34,7 @@
 
 ## PCEP – Certified Entry-Level Python Programmer
 
+Afiz Jiwa<br>
 [<img width="200" alt="PCEP badge" src="pcep-badge.png" />](https://www.credly.com/badges/2871bfa7-e76d-4f34-a54d-9495e6ec0e5d)
 
 * **Exam:** PCEP-30-02 | **Issued:** June 2, 2026

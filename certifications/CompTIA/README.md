@@ -23,6 +23,7 @@ Afiz Jiwa<br>
 
 ## CompTIA Linux+ (XK0-006)
 
+Afiz Jiwa<br>
 [<img width="200" alt="CompTIA Linux+ badge" src="linux-plus-badge.png" />](https://www.credly.com/badges/657af150-9a1f-4763-9637-a8c8e9f75199)
 
 * **Issued:** June 4, 2026 | **Expires:** June 4, 2029
@@ -33,6 +34,7 @@ Afiz Jiwa<br>
 
 ## CompTIA SecAI+ (CY0-001)
 
+Afiz Jiwa<br>
 [<img width="200" alt="CompTIA SecAI+ badge" src="secai-plus-badge.png" />](https://www.credly.com/badges/807b97b2-1508-4ab0-aecb-f76d5645923a)
 
 * **Issued:** June 11, 2026 | **Expires:** June 11, 2029

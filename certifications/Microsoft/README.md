@@ -12,6 +12,7 @@
 
 ## Cybersecurity Architect Expert
 
+Afiz Jiwa<br>
 [<img width="200" alt="Microsoft Certified: Cybersecurity Architect Expert badge" src="sc-100-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/89443D1B7AB146BC?sharingId=333A4295D8E97B98)
 
 * **Exam:** SC-100 | **Earned:** June 22, 2026 | **Expires:** June 22, 2027
@@ -23,6 +24,7 @@
 
 ## Identity and Access Administrator Associate
 
+Afiz Jiwa<br>
 [<img width="200" alt="Microsoft Certified: Identity and Access Administrator Associate badge" src="sc-300-badge.svg" />](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/8edff3e9d9b7a36a)
 
 * **Exam:** SC-300 | **Earned:** June 20, 2026 | **Expires:** June 20, 2027
@@ -34,6 +36,7 @@
 
 ## Information Security Administrator Associate
 
+Afiz Jiwa<br>
 [<img width="200" alt="Microsoft Certified: Information Security Administrator Associate badge" src="sc-401-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/AfJiwa-3909/65834D9ABB93C2A?sharingId=333A4295D8E97B98)
 
 * **Exam:** SC-401 | **Earned:** June 24, 2026 | **Expires:** June 24, 2027
@@ -45,6 +48,7 @@
 
 ## Azure Administrator Associate
 
+Afiz Jiwa<br>
 [<img width="200" alt="Microsoft Certified: Azure Administrator Associate badge" src="az-104-badge.svg" />](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/d54f56cbfc916ce3)
 
 * **Exam:** AZ-104 | **Earned:** June 27, 2026 | **Expires:** June 27, 2027
@@ -56,6 +60,7 @@
 
 ## Power BI Data Analyst Associate
 
+Afiz Jiwa<br>
 [<img width="200" alt="Microsoft Certified: Power BI Data Analyst Associate badge" src="pl-300-badge.svg" />](https://learn.microsoft.com/en-us/users/afjiwa-3909/credentials/c10302e5603f1c3c)
 
 * **Exam:** PL-300 | **Earned:** October 16, 2026 | **Expires:** October 17, 2027

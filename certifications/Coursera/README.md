@@ -13,6 +13,7 @@
 
 ## Google Cybersecurity
 
+Afiz Jiwa<br>
 [<img width="200" alt="Google Cybersecurity Certificate badge" src="google-cybersecurity-badge.png" />](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7)
 
 * **Issuer:** Google, via Coursera | **Issued:** January 18, 2026
@@ -26,6 +27,7 @@ A professional certificate covering security frameworks, network security, Linux
 
 ## Cybersecurity & IT Support
 
+Afiz Jiwa<br>
 [<img width="200" alt="Cybersecurity & IT Support badge" src="cybersecurity-it-support-badge.png" />](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA)
 
 * **Issuer:** San Diego Workforce Partnership / Coursera | **Issued:** August 30, 2026
@@ -55,6 +57,7 @@ A cybersecurity pathway with optional IT support training. It covers 14 courses:
 
 ## Google IT Automation with Python
 
+Afiz Jiwa<br>
 [<img width="200" alt="Google IT Automation with Python badge" src="it-automation-python-badge.png" />](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22)
 
 * **Issuer:** Google, via Coursera | **Completed:** April 10, 2026
@@ -68,6 +71,7 @@ A professional certificate covering Python, Git and IT automation.
 
 ## Google AI Professional Certificate
 
+Afiz Jiwa<br>
 [<img width="200" alt="Google AI Professional Certificate badge" src="google-ai-professional-badge.png" />](https://www.credly.com/badges/bd99e866-3f98-4af7-8797-e9a54a4c7cd5)
 
 * **Issuer:** Google, via Coursera | **Issued:** March 6, 2026
@@ -81,6 +85,7 @@ An eight-course professional certificate on applying AI to brainstorming, resear
 
 ## Google Prompting Essentials
 
+Afiz Jiwa<br>
 [<img width="200" alt="Google Prompting Essentials badge" src="google-prompting-essentials-badge.png" />](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2)
 
 * **Issuer:** Google, via Coursera | **Issued:** January 20, 2026
@@ -94,6 +99,7 @@ A certificate of completion covering how to write effective prompts for generati
 
 ## Google AI Essentials
 
+Afiz Jiwa<br>
 [<img width="200" alt="Google AI Essentials badge" src="google-ai-essentials-badge.png" />](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93)
 
 * **Issuer:** Google, via Coursera | **Issued:** January 19, 2026
