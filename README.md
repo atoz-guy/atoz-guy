@@ -29,16 +29,13 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 | **Google** | Cybersecurity, IT Support, IT Automation with Python, AI Professional, Data Analytics |
 | **Other** | AWS SAA-C03, LPIC-1, Linux Essentials, Python PCEP / PCAP / PCPP1 |
 
-### Certifications
-
+**Certifications**<br>
 Certificates grouped by issuer: [certifications/](certifications/)
 
-### Professional Affiliations
-
+**Professional Affiliations**<br>
 ISACA member; CRISC examination passed (certification pending). CISM and CISA next. [professional-affiliations/](professional-affiliations/)
 
-### Training & Job Simulations
-
+**Training & Job Simulations**<br>
 Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte, plus short courses. [training/](training/)
 
 ---
