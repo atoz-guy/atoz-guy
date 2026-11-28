@@ -10,7 +10,7 @@
 ## LPIC-1
 
 Afiz Jiwa<br>
-[<img width="200" alt="LPIC-1 badge" src="lpic-1-badge.png" />](https://www.credly.com/badges/d6a2e750-9b11-49e7-8f2b-53546391e043)
+[<img width="200" alt="LPIC-1 badge" src="lpic-1-badge.webp" />](https://www.credly.com/badges/d6a2e750-9b11-49e7-8f2b-53546391e043)
 
 * **Issued:** June 26, 2026
 * [Verify Credential on Credly](https://www.credly.com/badges/d6a2e750-9b11-49e7-8f2b-53546391e043)
