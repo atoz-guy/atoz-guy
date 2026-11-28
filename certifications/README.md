@@ -2,34 +2,34 @@
 
 Certificates and job simulations I've completed, grouped by issuer. 
 
-| Certification | Issuer | Date | Certificate |
-|---|---|---|---|
-| Solutions Architect – Associate (SAA-C03) | AWS | June 30, 2026 | [AWS/](AWS/) |
-| Security+ (SY0-701) | CompTIA | May 30, 2026 | [CompTIA/](CompTIA/) |
-| Linux+ (XK0-006) | CompTIA | June 4, 2026 | [CompTIA/](CompTIA/) |
-| SecAI+ (CY0-001) | CompTIA | June 11, 2026 | [CompTIA/](CompTIA/) |
-| LPIC-1 | Linux Professional Institute | June 26, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
-| Linux Essentials | Linux Professional Institute | June 13, 2026 | [Linux-LPIC-1/](Linux-LPIC-1/) |
-| PCPP1 (PCPP-32-101) | OpenEDG Python Institute | June 24, 2026 | [Python/](Python/) |
-| PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [Python/](Python/) |
-| PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
-| Google Cybersecurity | Google / Coursera | January 18, 2026 | [Coursera/](Coursera/) |
-| Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
-| Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
-| Google AI Professional Certificate | Google / Coursera | March 6, 2026 | [Coursera/](Coursera/) |
-| Google Prompting Essentials | Google / Coursera | January 20, 2026 | [Coursera/](Coursera/) |
-| Google AI Essentials | Google / Coursera | January 19, 2026 | [Coursera/](Coursera/) |
-| Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | [ServiceNow/](ServiceNow/) |
-| Certified Implementation Specialist – Risk and Compliance (CIS-RC) | ServiceNow | June 25, 2026 | [ServiceNow/](ServiceNow/) |
-| Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | [ServiceNow/](ServiceNow/) |
-| Certified Implementation Specialist – Security Incident Response (CIS-SIR) | ServiceNow | October 19, 2026 | [ServiceNow/](ServiceNow/) |
-| Certified Implementation Specialist – Vulnerability Response (CIS-VR) | ServiceNow | October 30, 2026 | [ServiceNow/](ServiceNow/) |
-| Cybersecurity Architect Expert (SC-100) | Microsoft | June 22, 2026 | [Microsoft/](Microsoft/) |
-| Identity and Access Administrator Associate (SC-300) | Microsoft | June 20, 2026 | [Microsoft/](Microsoft/) |
-| Information Security Administrator Associate (SC-401) | Microsoft | June 24, 2026 | [Microsoft/](Microsoft/) |
-| Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Microsoft/](Microsoft/) |
-| Power BI Data Analyst Associate (PL-300) | Microsoft | October 16, 2026 | [Microsoft/](Microsoft/) |
-| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
+| Certification | Issuer | Date | Certificate | Details |
+|---|---|---|---|---|
+| Solutions Architect – Associate (SAA-C03) | AWS | June 30, 2026 | [PDF](AWS/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) | [AWS/](AWS/) |
+| Security+ (SY0-701) | CompTIA | May 30, 2026 | [PDF](CompTIA/CompTIA%20Security+%20ce%20certificate.pdf) | [CompTIA/](CompTIA/) |
+| Linux+ (XK0-006) | CompTIA | June 4, 2026 | [PDF](CompTIA/CompTIA%20Linux+%20ce%20certificate.pdf) | [CompTIA/](CompTIA/) |
+| SecAI+ (CY0-001) | CompTIA | June 11, 2026 | [PDF](CompTIA/CompTIA%20SecAI%20certificate.pdf) | [CompTIA/](CompTIA/) |
+| LPIC-1 | Linux Professional Institute | June 26, 2026 | [Image](Linux-LPIC-1/lpic-1-certificate.png) | [Linux-LPIC-1/](Linux-LPIC-1/) |
+| Linux Essentials | Linux Professional Institute | June 13, 2026 | [Image](Linux-LPIC-1/linux-essentials-certificate.png) | [Linux-LPIC-1/](Linux-LPIC-1/) |
+| PCPP1 (PCPP-32-101) | OpenEDG Python Institute | June 24, 2026 | [PDF](Python/pcpp1-certificate.pdf) | [Python/](Python/) |
+| PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [PDF](Python/pcap-certificate.pdf) | [Python/](Python/) |
+| PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [PDF](Python/pcep-certificate.pdf) | [Python/](Python/) |
+| Google Cybersecurity | Google / Coursera | January 18, 2026 | [PDF](Coursera/google-cybersecurity-certificate.pdf) | [Coursera/](Coursera/) |
+| Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | Badge only | [Coursera/](Coursera/) |
+| Google IT Automation with Python | Google / Coursera | April 10, 2026 | [PDF](Coursera/it-automation-python-certificate.pdf) | [Coursera/](Coursera/) |
+| Google AI Professional Certificate | Google / Coursera | March 6, 2026 | [PDF](Coursera/google-ai-professional-certificate.pdf) | [Coursera/](Coursera/) |
+| Google Prompting Essentials | Google / Coursera | January 20, 2026 | [PDF](Coursera/google-prompting-essentials-certificate.pdf) | [Coursera/](Coursera/) |
+| Google AI Essentials | Google / Coursera | January 19, 2026 | [PDF](Coursera/google-ai-essentials-certificate.pdf) | [Coursera/](Coursera/) |
+| Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
+| Certified Implementation Specialist – Risk and Compliance (CIS-RC) | ServiceNow | June 25, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
+| Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
+| Certified Implementation Specialist – Security Incident Response (CIS-SIR) | ServiceNow | October 19, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
+| Certified Implementation Specialist – Vulnerability Response (CIS-VR) | ServiceNow | October 30, 2026 | Badge only | [ServiceNow/](ServiceNow/) |
+| Cybersecurity Architect Expert (SC-100) | Microsoft | June 22, 2026 | [Image](Microsoft/sc-100-certificate.png) | [Microsoft/](Microsoft/) |
+| Identity and Access Administrator Associate (SC-300) | Microsoft | June 20, 2026 | [Image](Microsoft/sc-300-certificate.png) | [Microsoft/](Microsoft/) |
+| Information Security Administrator Associate (SC-401) | Microsoft | June 24, 2026 | [Image](Microsoft/sc-401-certificate.png) | [Microsoft/](Microsoft/) |
+| Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Image](Microsoft/az-104-certificate.png) | [Microsoft/](Microsoft/) |
+| Power BI Data Analyst Associate (PL-300) | Microsoft | October 16, 2026 | [Image](Microsoft/pl-300-certificate.png) | [Microsoft/](Microsoft/) |
+| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | — | [Forage/](Forage/) |
 
 ## Layout
 - `AWS/`: Amazon Web Services certifications
