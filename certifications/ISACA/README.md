@@ -3,6 +3,7 @@
 | Credential | Status | Date | Evidence |
 |---|---|---|---|
 | [Certified in Risk and Information Systems Control (CRISC)](#certified-in-risk-and-information-systems-control-crisc) | Examination passed | November 1, 2026 | [ISACA Certificate (PDF)](./crisc-exam-passer-certificate.pdf) |
+| [ISACA Membership](#isaca-membership) | Member | October 14, 2026 | [Membership Certificate (PDF)](./isaca-membership-certificate.pdf) |
 
 ---
 
@@ -21,6 +22,16 @@ CRISC validates expertise in identifying and managing enterprise IT risk and in 
 2. IT Risk Assessment
 3. Risk Response and Reporting
 4. Information Technology and Security
+
+---
+
+## ISACA Membership
+
+* **Status:** Member
+* **Member since:** October 14, 2026
+* **Evidence:** [ISACA Membership Certificate (PDF)](./isaca-membership-certificate.pdf)
+
+ISACA is the global professional association for IT governance, risk, security and audit, and the issuing body for CRISC, CISM and CISA.
 
 ---
 

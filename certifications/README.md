@@ -30,6 +30,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Image](Microsoft/az-104-certificate.png) | [Microsoft/](Microsoft/) |
 | Power BI Data Analyst Associate (PL-300) | Microsoft | October 16, 2026 | [Image](Microsoft/pl-300-certificate.png) | [Microsoft/](Microsoft/) |
 | CRISC (exam passed) | ISACA | November 1, 2026 | [PDF](ISACA/crisc-exam-passer-certificate.pdf) | [ISACA/](ISACA/) |
+| ISACA Membership | ISACA | October 14, 2026 | [PDF](ISACA/isaca-membership-certificate.pdf) | [ISACA/](ISACA/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 20, 2026 | [PDF](Forage/forage-jj-robotics-controls-certificate.pdf) | [Forage/](Forage/) |
 | Partnering with AI in the Workplace Job Simulation (Datacom) | Forage | April 14, 2026 | [PDF](Forage/forage-datacom-ai-workplace-certificate.pdf) | [Forage/](Forage/) |
 | Cybersecurity Job Simulation (Mastercard) | Forage | March 27, 2026 | [PDF](Forage/forage-mastercard-cybersecurity-certificate.pdf) | [Forage/](Forage/) |
@@ -44,7 +45,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 - `Python/`: OpenEDG Python Institute certifications (PCEP, PCAP, PCPP1)
 - `Coursera/`: Coursera certificates and badges (Google, San Diego Workforce Partnership)
 - `Microsoft/`: Microsoft certifications
-- `ISACA/`: ISACA (CRISC exam passed; CISM and CISA next)
+- `ISACA/`: ISACA (member; CRISC exam passed; CISM and CISA next)
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
