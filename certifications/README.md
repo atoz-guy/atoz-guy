@@ -20,6 +20,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Security Incident Response (CIS-SIR) | ServiceNow | October 19, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Vulnerability Response (CIS-VR) | ServiceNow | October 30, 2026 | [ServiceNow/](ServiceNow/) |
+| Identity and Access Administrator Associate (SC-300) | Microsoft | June 20, 2026 | [Microsoft/](Microsoft/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
@@ -30,7 +31,8 @@ Certificates and job simulations I've completed, grouped by issuer.
 - `Linux-LPIC-1/`: Linux Professional Institute certifications (LPIC-1, Linux Essentials)
 - `Python/`: OpenEDG Python Institute certifications (PCEP, PCAP, PCPP1)
 - `Coursera/`: Coursera certificates and badges (Google, San Diego Workforce Partnership)
-- `ISACA/`, `Microsoft/`: folders ready for upcoming certificates
+- `Microsoft/`: Microsoft certifications
+- `ISACA/`: folder ready for upcoming certificates
 
 ## Adding a certificate
 1. Put the PDF or image in the issuer's folder (for example `CompTIA/security-plus.pdf`).
