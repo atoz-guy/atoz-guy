@@ -1,0 +1,7 @@
+# Treat images and documents as binary so GitHub never rewrites their line endings
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.pdf binary
