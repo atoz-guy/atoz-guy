@@ -15,7 +15,7 @@
 * [Verify Credential on Credly](https://www.credly.com/badges/d6a2e750-9b11-49e7-8f2b-53546391e043)
 * [Verify on LPI](https://lpi.org/v/LPI000694038/qgrrbc7gfv)
 
-<img width="600" alt="LPIC-1 certificate" src="lpic-1-certificate.png" />
+<img width="600" alt="LPIC-1 certificate" src="lpic-1-certificate.png" /> 
 
 ---
 
