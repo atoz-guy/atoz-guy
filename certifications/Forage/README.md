@@ -6,6 +6,7 @@ Free, self-paced job simulations on [Forage](https://www.theforage.com/), built 
 |---|---|---|---|
 | [Robotics and Controls](#robotics-and-controls-job-simulation-johnson--johnson-medtech) | Johnson & Johnson MedTech | April 20, 2026 | [PDF](./forage-jj-robotics-controls-certificate.pdf) |
 | [Cybersecurity](#cybersecurity-job-simulation-mastercard) | Mastercard | March 27, 2026 | [PDF](./forage-mastercard-cybersecurity-certificate.pdf) |
+| [Cyber](#cyber-job-simulation-deloitte-australia) | Deloitte Australia | March 26, 2026 | [PDF](./forage-deloitte-cyber-certificate.pdf) |
 
 ---
 
@@ -49,3 +50,25 @@ As an analyst on Mastercard's Security Awareness Team in the simulation, I:
 * Analyzed which areas of the business needed more robust security training, and implemented training courses and procedures for those teams.
 
 **Skills:** Phishing detection · Threat reporting · Security awareness · Security training design
+
+---
+
+## Cyber Job Simulation: Deloitte Australia
+
+<img width="200" alt="Deloitte logo" src="deloitte-logo.png" />
+
+* **Platform:** Forage | **Completed:** March 26, 2026
+* [View Certificate (PDF)](./forage-deloitte-cyber-certificate.pdf)
+
+**What I did**
+
+On Deloitte's cyber team in the simulation, I:
+
+* Read web activity logs to support a client through a cyber security breach and help determine its source.
+* Answered questions to identify suspicious user activity.
+
+**What I took away**
+
+This program confirmed that I really enjoy working on cyber problems for clients.
+
+**Skills:** Log analysis · Incident investigation · Suspicious activity detection · Client support
