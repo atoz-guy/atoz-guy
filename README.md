@@ -68,6 +68,6 @@ Projects, labs and write-ups that put these skills to use. [Featured work](#-fea
 
 **Website:** [atozcyberlabs.com](https://www.atozcyberlabs.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** [aj@atozcyberlabs.com](mailto:aj@atozcyberlabs.com)<br>
 **Location:**<br>
-AtoZ CyberLabs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Repair · Protect · Learn · Explore*)<br>
-1640 Camino Del Rio N, Ste 127, San Diego, CA<br>
-(Mission Valley, inside AtoZ Wireless)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AtoZ CyberLabs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Repair · Protect · Learn · Explore*)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1640 Camino Del Rio N, Ste 127, San Diego, CA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Mission Valley, inside AtoZ Wireless)
