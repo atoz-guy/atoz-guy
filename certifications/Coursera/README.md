@@ -4,6 +4,7 @@
 |---|---|---|---|
 | [Cybersecurity & IT Support (badge)](#cybersecurity--it-support) | San Diego Workforce Partnership, powered by Coursera | August 30, 2026 | [Coursera](https://www.coursera.org/account/accomplishments/badge/OJcXOXKoR3-XFzlyqLd_qA) |
 | [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
+| [Google Cybersecurity](#google-cybersecurity) | Google, via Coursera | January 18, 2026 | [Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7) |
 
 ---
 
@@ -46,3 +47,14 @@ A cybersecurity pathway with optional IT support training. It covers 14 courses:
 * [Download Official PDF](./it-automation-python-certificate.pdf)
 
 A professional certificate covering Python, Git and IT automation.
+
+---
+
+## Google Cybersecurity
+
+[<img width="200" alt="Google Cybersecurity Certificate badge" src="google-cybersecurity-badge.png" />](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7)
+
+* **Issuer:** Google, via Coursera | **Issued:** January 18, 2026
+* [Verify Credential on Credly](https://www.credly.com/badges/72a2fc12-4777-41ee-b3d4-f6aabb5e34e7)
+
+A professional certificate covering security frameworks, network security, Linux, SQL, threat detection and incident response, and Python for security tasks.
