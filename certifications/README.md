@@ -18,6 +18,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Security Incident Response (CIS-SIR) | ServiceNow | October 19, 2026 | [ServiceNow/](ServiceNow/) |
+| Certified Implementation Specialist – Vulnerability Response (CIS-VR) | ServiceNow | October 30, 2026 | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
