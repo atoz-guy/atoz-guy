@@ -38,6 +38,9 @@ ISACA member; CRISC examination passed (certification pending). CISM and CISA ne
 **Training & Job Simulations**<br>
 Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte, plus short courses. [training/](training/)
 
+**Featured Work**<br>
+Projects, labs and write-ups that put these skills to use. [Featured work](#-featured-work)
+
 ---
 
 ## 📁 Featured work
