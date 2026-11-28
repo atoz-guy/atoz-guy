@@ -5,6 +5,7 @@ Free, self-paced job simulations on [Forage](https://www.theforage.com/), built 
 | Simulation | Company | Completed | Certificate |
 |---|---|---|---|
 | [Robotics and Controls](#robotics-and-controls-job-simulation-johnson--johnson-medtech) | Johnson & Johnson MedTech | April 20, 2026 | [PDF](./forage-jj-robotics-controls-certificate.pdf) |
+| [Partnering with AI in the Workplace](#partnering-with-ai-in-the-workplace-job-simulation-datacom) | Datacom | April 14, 2026 | [PDF](./forage-datacom-ai-workplace-certificate.pdf) |
 | [Cybersecurity](#cybersecurity-job-simulation-mastercard) | Mastercard | March 27, 2026 | [PDF](./forage-mastercard-cybersecurity-certificate.pdf) |
 | [Cyber](#cyber-job-simulation-deloitte-australia) | Deloitte Australia | March 26, 2026 | [PDF](./forage-deloitte-cyber-certificate.pdf) |
 
@@ -31,6 +32,30 @@ As a robotics & controls engineering intern in the simulation, I worked on optim
 This program confirmed that I really enjoy working on engineering solutions that improve precision and durability in robotic systems.
 
 **Skills:** Python · Diagnostic analysis · Design optimization · Technical proposals
+
+---
+
+## Partnering with AI in the Workplace Job Simulation: Datacom
+
+<img width="200" alt="Datacom logo" src="datacom-logo.png" />
+
+* **Platform:** Forage | **Completed:** April 14, 2026
+* [View Certificate (PDF)](./forage-datacom-ai-workplace-certificate.pdf)
+* [About this simulation](https://www.theforage.com/datacom/partnering-with-ai-in-the-workplace-khv2)
+
+**What I did**
+
+In the simulation, I partnered with generative AI tools (e.g., ChatGPT) to research, write, design, and debug in fast-paced project environments. I:
+
+* Created client-ready reports and presentations by prompting AI for feature ideas, technical examples, and visual storytelling guidance.
+* Diagnosed and resolved a website issue by guiding AI through troubleshooting and testing, showing initiative and self-learning in a non-technical role.
+* Used AI tools to improve productivity, clarify project needs, and deliver solutions faster, including feature planning, UI ideas, and clean code examples.
+
+**What I took away**
+
+It was a great way to practise guiding AI clearly and applying its output in a professional setting.
+
+**Skills:** Generative AI tools · Prompting · AI-assisted troubleshooting · Client reports and presentations
 
 ---
 
