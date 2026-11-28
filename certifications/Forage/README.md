@@ -5,6 +5,7 @@ Free, self-paced job simulations on [Forage](https://www.theforage.com/), built 
 | Simulation | Company | Completed | Certificate |
 |---|---|---|---|
 | [Robotics and Controls](#robotics-and-controls-job-simulation-johnson--johnson-medtech) | Johnson & Johnson MedTech | April 20, 2026 | [PDF](./forage-jj-robotics-controls-certificate.pdf) |
+| [Cybersecurity](#cybersecurity-job-simulation-mastercard) | Mastercard | March 27, 2026 | [PDF](./forage-mastercard-cybersecurity-certificate.pdf) |
 
 ---
 
@@ -29,3 +30,22 @@ As a robotics & controls engineering intern in the simulation, I worked on optim
 This program confirmed that I really enjoy working on engineering solutions that improve precision and durability in robotic systems.
 
 **Skills:** Python · Diagnostic analysis · Design optimization · Technical proposals
+
+---
+
+## Cybersecurity Job Simulation: Mastercard
+
+<img width="120" alt="Mastercard logo" src="mastercard-logo.png" />
+
+* **Platform:** Forage | **Completed:** March 27, 2026
+* [View Certificate (PDF)](./forage-mastercard-cybersecurity-certificate.pdf)
+* [About this simulation](https://www.theforage.com/mastercard/cybersecurity-t8ye)
+
+**What I did**
+
+As an analyst on Mastercard's Security Awareness Team in the simulation, I:
+
+* Helped identify and report security threats such as phishing.
+* Analyzed which areas of the business needed more robust security training, and implemented training courses and procedures for those teams.
+
+**Skills:** Phishing detection · Threat reporting · Security awareness · Security training design
