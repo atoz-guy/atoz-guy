@@ -20,6 +20,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Security Incident Response (CIS-SIR) | ServiceNow | October 19, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Vulnerability Response (CIS-VR) | ServiceNow | October 30, 2026 | [ServiceNow/](ServiceNow/) |
+| Cybersecurity Architect Expert (SC-100) | Microsoft | June 22, 2026 | [Microsoft/](Microsoft/) |
 | Identity and Access Administrator Associate (SC-300) | Microsoft | June 20, 2026 | [Microsoft/](Microsoft/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
