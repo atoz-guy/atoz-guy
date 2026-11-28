@@ -6,7 +6,7 @@ UCSD graduate working toward governance, risk and compliance, with a focus on Se
 
 I came to security from the hardware side. I spent 10+ years doing micro-soldering and board-level repair, so I tend to look at systems from the bottom up. Now I put that same attention to detail into risk, controls and compliance: figuring out what matters, who owns it, and how to prove it's handled.
 
-I also run **AtoZCyberlabs** (*Repair · Protect · Learn · Explore*), where I do repairs, host youth robotics workshops, work on drones and sell security tools. It's also my real-world test environment for GRC. 
+I also run **AtoZ CyberLabs** (*Repair · Protect · Learn · Explore*), where I do repairs, host youth robotics workshops, work on drones and sell security tools. It's also my real-world test environment for GRC. 
 
 ---
 
@@ -65,4 +65,4 @@ Forage job simulations with Johnson & Johnson, Datacom, Mastercard and Deloitte,
 
 **Email:** [aj@atozcyberlabs.com](mailto:aj@atozcyberlabs.com)<br>
 **Website:** [atozcyberlabs.com](https://www.atozcyberlabs.com)<br>
-**Location:** AtoZCyberlabs (*Repair · Protect · Learn · Explore*), 1640 Camino Del Rio N, Ste 127, San Diego, CA (Mission Valley, inside AtoZ Wireless)
+**Location:** AtoZ CyberLabs (*Repair · Protect · Learn · Explore*), 1640 Camino Del Rio N, Ste 127, San Diego, CA (Mission Valley, inside AtoZ Wireless)
