@@ -13,12 +13,12 @@ Certificates and job simulations I've completed, grouped by issuer.
 | PCPP1 (PCPP-32-101) | OpenEDG Python Institute | June 24, 2026 | [Python/](Python/) |
 | PCAP (PCAP-31-03) | OpenEDG Python Institute | June 16, 2026 | [Python/](Python/) |
 | PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
+| Google Cybersecurity | Google / Coursera | January 18, 2026 | [Coursera/](Coursera/) |
 | Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
 | Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
 | Google AI Professional Certificate | Google / Coursera | March 6, 2026 | [Coursera/](Coursera/) |
 | Google Prompting Essentials | Google / Coursera | January 20, 2026 | [Coursera/](Coursera/) |
 | Google AI Essentials | Google / Coursera | January 19, 2026 | [Coursera/](Coursera/) |
-| Google Cybersecurity | Google / Coursera | January 18, 2026 | [Coursera/](Coursera/) |
 | Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Risk and Compliance (CIS-RC) | ServiceNow | June 25, 2026 | [ServiceNow/](ServiceNow/) |
 | Certified Implementation Specialist – Data Foundations (CIS-DF) | ServiceNow | October 17, 2026 | [ServiceNow/](ServiceNow/) |
