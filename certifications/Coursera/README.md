@@ -7,7 +7,7 @@
 | [Google IT Automation with Python](#google-it-automation-with-python) | Google, via Coursera | April 10, 2026 | [Credly](https://www.credly.com/badges/d7c9362b-35ca-4c9c-a9a5-40d6d1678c22) · [Coursera](https://coursera.org/verify/professional-cert/L3BFS9RMMVSA) |
 | [Google AI Professional Certificate](#google-ai-professional-certificate) | Google, via Coursera | March 6, 2026 | [Credly](https://www.credly.com/badges/bd99e866-3f98-4af7-8797-e9a54a4c7cd5) · [Coursera](https://coursera.org/verify/professional-cert/TW45TE367GVZ) |
 | [Google Prompting Essentials](#google-prompting-essentials) | Google, via Coursera | January 20, 2026 | [Credly](https://www.credly.com/badges/d235b2af-caf4-4bb7-bd26-d5f6511d4ca2) · [Coursera](https://coursera.org/verify/specialization/NDA10T2SQ3OT) |
-| [Google AI Essentials](#google-ai-essentials) | Google, via Coursera | January 19, 2026 | [Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93) · [Coursera](https://coursera.org/verify/specialization/FOMMJ0O4YOVP) |
+| [Google AI Essentials](#google-ai-essentials) | Google, via Coursera | January 19, 2026 | [Credly](https://www.credly.com/badges/e21df7de-9aab-4e44-8b51-bc3530761d93) · [Coursera](https://coursera.org/verify/specialization/FOMMJ0O4YOVP) | 
 
 ---
 
