@@ -12,6 +12,7 @@ All three can also be verified at [verify.CompTIA.org](http://verify.CompTIA.org
 
 ## CompTIA Security+ (SY0-701)
 
+Afiz Jiwa<br>
 [<img width="200" alt="CompTIA Security+ badge" src="security-plus-badge.png" />](https://www.credly.com/badges/7b8d83c2-a947-4f55-8076-bbb92724c98d)
 
 * **Issued:** May 30, 2026 | **Expires:** May 30, 2029
