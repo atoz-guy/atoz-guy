@@ -29,7 +29,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Information Security Administrator Associate (SC-401) | Microsoft | June 24, 2026 | [Image](Microsoft/sc-401-certificate.png) | [Microsoft/](Microsoft/) |
 | Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Image](Microsoft/az-104-certificate.png) | [Microsoft/](Microsoft/) |
 | Power BI Data Analyst Associate (PL-300) | Microsoft | October 16, 2026 | [Image](Microsoft/pl-300-certificate.png) | [Microsoft/](Microsoft/) |
-| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | — | [Forage/](Forage/) |
+| Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 20, 2026 | [PDF](Forage/forage-jj-robotics-controls-certificate.pdf) | [Forage/](Forage/) |
 
 ## Layout
 - `AWS/`: Amazon Web Services certifications
