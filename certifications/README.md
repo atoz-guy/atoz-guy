@@ -23,6 +23,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | Cybersecurity Architect Expert (SC-100) | Microsoft | June 22, 2026 | [Microsoft/](Microsoft/) |
 | Identity and Access Administrator Associate (SC-300) | Microsoft | June 20, 2026 | [Microsoft/](Microsoft/) |
 | Information Security Administrator Associate (SC-401) | Microsoft | June 24, 2026 | [Microsoft/](Microsoft/) |
+| Azure Administrator Associate (AZ-104) | Microsoft | June 27, 2026 | [Microsoft/](Microsoft/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
