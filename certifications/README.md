@@ -15,7 +15,7 @@ Certificates and job simulations I've completed, grouped by issuer.
 | PCEP (PCEP-30-02) | OpenEDG Python Institute | June 2, 2026 | [Python/](Python/) |
 | Cybersecurity & IT Support (badge) | San Diego Workforce Partnership / Coursera | August 30, 2026 | [Coursera/](Coursera/) |
 | Google IT Automation with Python | Google / Coursera | April 10, 2026 | [Coursera/](Coursera/) |
-| Certified System Administrator (CSA) | ServiceNow | | [ServiceNow/](ServiceNow/) |
+| Certified System Administrator (CSA) | ServiceNow | June 23, 2026 | [ServiceNow/](ServiceNow/) |
 | Robotics and Controls Job Simulation (J&J MedTech) | Forage | April 2026 | [Forage/](Forage/) | 
 
 ## Layout
