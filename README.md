@@ -23,10 +23,10 @@ I also run **AtoZCyberlabs**, where I do repairs, host youth robotics workshops,
 
 | Area | Certifications |
 |---|---|
-| **ServiceNow** | CSA, CIS-RC, SecOps (CIS-DF, CIS-SIR, CIS-VR) |
+| **ServiceNow** | CSA, CIS-RC, CIS-DF, SecOps (CIS-SIR, CIS-VR) |
 | **Microsoft** | SC-100, SC-300, SC-401, AZ-104, PL-300 |
 | **CompTIA** | Security+, Linux+, SecAI+ |
-| **Google** | Cybersecurity, IT Support, IT Automation with Python, AI Professional, Data Analytics |
+| **Google** | Cybersecurity, IT Support, IT Automation with Python, AI Professional, Data Analytics (in progress) |
 | **Other** | AWS SAA-C03, LPIC-1, Linux Essentials, Python PCEP / PCAP / PCPP1 |
 
 **Certifications**<br>
